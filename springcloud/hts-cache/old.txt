@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:41:49	5230/5230	---MCZ	404	error ('Not%20Found')	text/html	date:Mon,%2024%20Jun%202019%2014:41:46%20GMT	https://cloud.spring.io/robots.txt		(from )
+22:43:18	1800901/1800901	---MCZ	200	added ('OK')	text/html	date:Fri,%2021%20Jun%202019%2013:53:26%20GMT	https://cloud.spring.io/spring-cloud-static/Dalston.SR5/single/spring-cloud.html	D:/My%20Web%20Sites/springcloud/cloud.spring.io/spring-cloud-static/Dalston.SR5/single/spring-cloud.html	(from )
